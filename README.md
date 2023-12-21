@@ -1,3 +1,9 @@
+# Product-Customer-Acquisition-Analysis-using-Behaviour
+
+<p align="center">
+   <img src="https://github.com/Demon-2-Angel/Product-Customer-Acquisition-Analysis-using-Behaviour/blob/main/Resources/car%20image.webp" alt="demon-2-angel" /> 
+</p>
+
 ## Database Overview:
 - The database comprises eight tables: Customers, Products, ProductLines, Orders, OrderDetails, Payments, Employees, and Offices.
 - Each table has varying attributes and rows, providing a comprehensive dataset for analysis.
