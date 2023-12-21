@@ -1,0 +1,2 @@
+# Analysis-Prediction-of-Customer-Patterns-using-SQL
+The database encompasses eight tables with varied attributes and rows. Key analyses include product restocking needs, top VIP customers' contributions, and an average customer profit of $39,039.59. Recommendations emphasize strategic marketing to new customers and incentives for existing VIP clients based on acquisition costs and profit insights.
